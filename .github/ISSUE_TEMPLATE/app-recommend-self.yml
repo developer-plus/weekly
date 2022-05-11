@@ -1,0 +1,34 @@
+name:  "\U0001F6E0️ 软件自荐"
+title: "【软件自荐】"
+description: "developer-plus 周刊 - 软件自荐。"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢您抽出时间投稿 developer-plus 周刊！
+  - type: textarea
+    id: function-description
+    attributes:
+      label: 功能描述
+    validations:
+      required: true
+  - type: input
+    id: support-platform
+    attributes:
+      label: 支持平台
+      placeholder: ex. Mac/Windows/Linux/...
+    validations:
+      required: true
+  - type: input
+    id: download-channel
+    attributes:
+      label: 下载渠道
+      placeholder: ex. https://example.com
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: 其他补充
+    validations:
+      required: false
