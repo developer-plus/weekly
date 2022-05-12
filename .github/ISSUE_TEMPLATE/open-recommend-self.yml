@@ -1,0 +1,34 @@
+name:  "\U0001F6E0️ 开源推荐"
+title: "【开源推荐】"
+description: "developer-plus 周刊 - 开源推荐。"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢您抽出时间投稿 developer-plus 周刊！
+  - type: textarea
+    id: description
+    attributes:
+      label: 描述
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: 链接
+      placeholder: ex. https://example.com
+    validations:
+      required: true
+  - type: input
+    id: keyword
+    attributes:
+      label: 关键词或技术
+      placeholder: ex. UI/Interview/...
+    validations:
+      required: false
+  - type: textarea
+    id: other
+    attributes:
+      label: 其他补充
+    validations:
+      required: false
