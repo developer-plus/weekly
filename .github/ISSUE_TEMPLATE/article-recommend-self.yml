@@ -1,0 +1,33 @@
+name:  "\U0001F4F0 文章自荐"
+title: "【文章自荐】"
+description: "developer-plus 周刊 - 文章自荐。"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢您抽出时间投稿 developer-plus 周刊！
+  - type: input
+    id: author
+    attributes:
+      label: 作者
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: 原文链接
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: 简短的总结
+    validations:
+      required: true
+  - type: input
+    id: keyword
+    attributes:
+      label: 关键词或技术
+      placeholder: ex. Vue/JS/...
+    validations:
+      required: false
