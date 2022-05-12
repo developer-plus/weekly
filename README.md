@@ -1,6 +1,6 @@
 # developer-plus 周刊
 
-记录每周值得分享的内容，周一发布。来源于 [ruanyf/weekly](https://github.com/ruanyf/weekly)。
+记录每周值得分享的内容，周一发布。
 
 欢迎投稿，推荐或自荐文章/软件/工具/网站，请[提交 issue](https://github.com/developer-plus/weekly/issues/new) 。
 
@@ -25,6 +25,8 @@ $ grep -nri css docs | cat --number
 ## 订阅
 
 微信搜索 **「洪布斯」** 或者扫描二维码，即可订阅。
+
+<img src='./wechat.svg' width='222' />
 
 ## LICENSE
 
