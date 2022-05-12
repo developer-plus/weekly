@@ -1,6 +1,6 @@
-name:  "✨ 开源推荐"
-title: "【开源推荐】"
-description: "developer-plus 周刊 - 开源推荐。"
+name:  "✨ 开源推荐/自荐"
+title: "【开源推荐/自荐】"
+description: "developer-plus 周刊 - 开源推荐/自荐。"
 body:
   - type: markdown
     attributes:

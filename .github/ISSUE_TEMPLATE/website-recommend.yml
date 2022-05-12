@@ -1,6 +1,6 @@
-name:  "🚀 网站推荐"
-title: "【网站推荐】"
-description: "developer-plus 周刊 - 网站推荐。"
+name:  "🚀 网站推荐/自荐"
+title: "【网站推荐/自荐】"
+description: "developer-plus 周刊 - 网站推荐/自荐。"
 body:
   - type: markdown
     attributes:

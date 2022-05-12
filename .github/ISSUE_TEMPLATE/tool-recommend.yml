@@ -1,6 +1,6 @@
-name:  "\U00026CF 工具推荐"
-title: "【工具推荐】"
-description: "developer-plus 周刊 - 工具推荐。"
+name:  "\U00026CF 工具推荐/自荐"
+title: "【工具推荐/自荐】"
+description: "developer-plus 周刊 - 工具推荐/自荐。"
 body:
   - type: markdown
     attributes:
