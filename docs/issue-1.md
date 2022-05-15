@@ -12,10 +12,10 @@ developer-plus 源于 [cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-v
 
 接下来要做的事情：
 
-- 周刊，记录每周值得分享的内容；
-- 待办事项列表，帮助想参加开源的伙伴；
-- 书签，一个前端开发人员的书签；
-- 官网，上面三个板块的集中展示，以及快速入口。
+- [周刊](https://github.com/developer-plus/weekly)，记录每周值得分享的内容；
+- [待办事项列表](https://github.com/developer-plus/ToDoList)，帮助想参加开源的伙伴；
+- [书签](https://github.com/developer-plus/bookmarks)，一个前端开发人员的书签；
+- [官网](https://github.com/developer-plus/developer-plus)，上面三个板块的集中展示，以及快速入口。
 
 如果以上内容你感兴趣，欢迎你加入到 developer-plus 的开发者小队，为开发者提供更好的服务。
 
@@ -58,5 +58,9 @@ RFC 概念最早在互联网标准指定领域出现。在互联网技术标准�
 1、[程序员的个人网站能有多酷？](https://henryheffernan.com) (@Hongbusi 投稿)
 
 Henry Heffernan 把个人网站，设计、开发成了一台可用的 Windows 95 电脑，不但可以在这台怀旧电脑上看简历、留言，还可以玩电脑桌面上的 Doom 游戏。
+
+## 订阅
+
+可以使用 GitHub watch 订阅，最快获取最新内容。
 
 developer-plus made with 💗. (完)
