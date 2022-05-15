@@ -2,7 +2,7 @@
 
 记录每周值得分享的内容，周一发布。
 
-欢迎投稿，推荐或自荐文章/软件/工具/网站，请[提交 issue](https://github.com/developer-plus/weekly/issues/new) 。
+欢迎投稿，推荐或自荐文章/软件/工具/网站，请[提交 issue](https://github.com/developer-plus/weekly/issues/new/choose) 。
 
 ## 如何搜索
 
@@ -22,11 +22,18 @@ $ grep -nri [搜索词] docs | cat --number
 $ grep -nri css docs | cat --number
 ```
 
+## 2022
+
+### 五月
+
+- 第 1 期：[developer-plus 梦开始的地方](./docs/issue-1.md)
+
+<!-- 
 ## 订阅
 
 微信搜索 **「洪布斯」** 或者扫描二维码，即可订阅。
 
-<img src='./wechat.svg' width='222' />
+<img src='./wechat.svg' width='222' /> -->
 
 ## LICENSE
 
