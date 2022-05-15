@@ -59,4 +59,4 @@ RFC 概念最早在互联网标准指定领域出现。在互联网技术标准�
 
 Henry Heffernan 把个人网站，设计、开发成了一台可用的 Windows 95 电脑，不但可以在这台怀旧电脑上看简历、留言，还可以玩电脑桌面上的 Doom 游戏。
 
-(完)
+developer-plus made with 💗. (完)
