@@ -6,7 +6,20 @@
 
 ## 本周话题：developer-plus 梦开始的地方
 
-developer-plus 梦开始的地方是 mini-vue。
+developer-plus：源于开发者，服务于开发者。
+
+developer-plus 源于 [cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)，最初的成员也都是 mini-vue 的学员，在这里要感谢一下崔哥。
+
+接下来要做的事情：
+
+- 周刊，记录每周值得分享的内容；
+- 待办事项列表，帮助想参加开源的伙伴；
+- 书签，一个前端开发人员的书签；
+- 官网，上面三个板块的集中展示，以及快速入口。
+
+如果以上内容你感兴趣，欢迎你加入到 developer-plus 的开发者小队，为开发者提供更好的服务。
+
+有意向可添加微信 `Hongbusi16530` 咨询了解更多。
 
 ## 开源
 
