@@ -23,7 +23,7 @@ body:
     attributes:
       label: 简短的总结
     validations:
-      required: true
+      required: false
   - type: input
     id: keyword
     attributes:
