@@ -26,6 +26,7 @@ $ grep -nri css docs | cat --number
 
 ### 五月
 
+- 第 2 期：[developer-plus developer-plus 官网上线了](./docs/issue-1.md)
 - 第 1 期：[developer-plus 梦开始的地方](./docs/issue-1.md)
 
 <!-- 
