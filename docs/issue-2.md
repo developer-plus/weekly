@@ -33,7 +33,9 @@
 
 ## 文章
 
-1、[正确的 review](https://twitter.com/laixintao/status/1526596745433468930) (@Hongbusi 投稿)
+1、[Vue 数据驱动视图的原理](https://juejin.cn/post/6999416188241608734) (@TickHeart 投稿)
+
+2、[正确的 review](https://twitter.com/laixintao/status/1526596745433468930) (@Hongbusi 投稿)
 
 正确的 review：
 
