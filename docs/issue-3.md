@@ -38,7 +38,7 @@
 
 2、[中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide) (@Hongbusi 投稿)
 
-2、[Vue 数据驱动视图的原理](https://juejin.cn/post/6999416188241608734) (@TickHeart 投稿)
+3、[Vue 数据驱动视图的原理](https://juejin.cn/post/6999416188241608734) (@TickHeart 投稿)
 
 ## 网站
 
