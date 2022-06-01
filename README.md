@@ -30,12 +30,12 @@ $ grep -nri css docs | cat --number
 - 第 2 期：[developer-plus 官网上线了](./docs/issue-2.md)
 - 第 1 期：[developer-plus 梦开始的地方](./docs/issue-1.md)
 
-<!-- 
+
 ## 订阅
 
-微信搜索 **「洪布斯」** 或者扫描二维码，即可订阅。
+微信搜索 **「Developer plus」** 或者扫描二维码，即可订阅。
 
-<img src='./wechat.svg' width='222' /> -->
+<img src='https://hongbusi.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg' width='222' />
 
 ## LICENSE
 

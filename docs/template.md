@@ -28,6 +28,8 @@
 
 ## 订阅
 
-可以使用 GitHub watch 订阅，最快获取最新内容。
+微信搜索 **「Developer plus」** 或者扫描二维码，即可订阅。
+
+<img src='https://hongbusi.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg' width='222' />
 
 developer-plus made with 💗. (完)
