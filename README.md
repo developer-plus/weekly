@@ -26,10 +26,10 @@ $ grep -nri css docs | cat --number
 
 ### 五月
 
+- 第 4 期：[developer-plus 公众号上线了](./docs/issue-4.md)
 - 第 3 期：[六周年快乐](./docs/issue-3.md)
 - 第 2 期：[developer-plus 官网上线了](./docs/issue-2.md)
 - 第 1 期：[developer-plus 梦开始的地方](./docs/issue-1.md)
-
 
 ## 订阅
 
