@@ -19,6 +19,12 @@ body:
     validations:
       required: true
   - type: textarea
+    id: reason
+    attributes:
+      label: 问题原因
+    validations:
+      required: true
+  - type: textarea
     id: other
     attributes:
       label: 相关文档
