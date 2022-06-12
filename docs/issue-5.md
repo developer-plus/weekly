@@ -6,9 +6,9 @@
 
 ## 本周话题：iconfont 回来了
 
-<img src="https://hongbusi.oss-cn-hangzhou.aliyuncs.com/weekly/5-0.png">
-
 [iconfont](https://www.iconfont.cn) 平台经过紧急升级维护，目前重要功能已优先恢复，其他功能也会尽快完成升级维护，并逐步恢复。
+
+<img src="https://hongbusi.oss-cn-hangzhou.aliyuncs.com/weekly/5-0.png">
 
 ## 开源
 
