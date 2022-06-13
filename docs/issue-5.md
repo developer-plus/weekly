@@ -8,7 +8,7 @@
 
 [iconfont](https://www.iconfont.cn) 平台经过紧急升级维护，目前重要功能已优先恢复，其他功能也会尽快完成升级维护，并逐步恢复。
 
-<img src="https://hongbusi.oss-cn-hangzhou.aliyuncs.com/weekly/5-0.png">
+<img src="https://oss.hongbusi.com/weekly/5-0.png">
 
 ## 开源
 
@@ -24,13 +24,13 @@
 
 多平台支持 Mac\Win\Linux。各种插件提高开发、办公效率。
 
-<img src="https://hongbusi.oss-cn-hangzhou.aliyuncs.com/weekly/5-1.png">
+<img src="https://oss.hongbusi.com/weekly/5-1.png">
 
 2、[Karabiner-Elements](https://karabiner-elements.pqrs.org) (@Hongbusi 投稿)
 
 Karabiner-Elements 是一个功能强大的实用程序，用于在 macOS Sierra 或更高版本上进行键盘自定义。
 
-<img src="https://hongbusi.oss-cn-hangzhou.aliyuncs.com/weekly/5-2.png">
+<img src="https://oss.hongbusi.com/weekly/5-2.png">
 
 ## 网站
 
@@ -38,7 +38,7 @@ Karabiner-Elements 是一个功能强大的实用程序，用于在 macOS Sierra
 
 一款字节的图标、插画库。
 
-<img src="https://hongbusi.oss-cn-hangzhou.aliyuncs.com/weekly/5-3.png">
+<img src="https://oss.hongbusi.com/weekly/5-3.png">
 
 ## 日常踩坑
 
@@ -77,6 +77,6 @@ https://www.typescriptlang.org/docs/handbook/project-references.html
 
 微信搜索 **「Developer plus」** 或者扫描二维码，即可订阅。
 
-<img src='https://hongbusi.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg' width='222' />
+<img src='https://oss.hongbusi.com/qrcode.jpg' width='222' />
 
 developer-plus made with 💗. (完)

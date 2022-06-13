@@ -39,7 +39,7 @@ $ grep -nri css docs | cat --number
 
 微信搜索 **「Developer plus」** 或者扫描二维码，即可订阅。
 
-<img src='https://hongbusi.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg' width='222' />
+<img src='https://oss.hongbusi.com/qrcode.jpg' width='222' />
 
 ## LICENSE
 
