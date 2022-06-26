@@ -26,6 +26,7 @@ $ grep -nri css docs | cat --number
 
 ### 六月
 
+- 第 7 期：[Facebook 标志的故事](./docs/issue-7.md)
 - 第 6 期：[一个轻量的 canvas 库](./docs/issue-6.md)
 - 第 5 期：[iconfont 回来了](./docs/issue-5.md)
 - 第 4 期：[developer-plus 公众号上线了](./docs/issue-4.md)
