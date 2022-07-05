@@ -24,6 +24,10 @@ $ grep -nri css docs | cat --number
 
 ## 2022
 
+### 七月
+
+- 第 8 期：[Vue2.7 尝鲜，代号 “Naruto”](./docs/weekly-8.md)
+
 ### 六月
 
 - 第 7 期：[Facebook 标志的故事](./docs/issue-7.md)
