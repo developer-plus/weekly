@@ -26,6 +26,7 @@ $ grep -nri css docs | cat --number
 
 ### 七月
 
+- [第 9 期](./docs/weekly-9.md)
 - 第 8 期：[Vue2.7 尝鲜，代号 “Naruto”](./docs/weekly-8.md)
 
 ### 六月
